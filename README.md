@@ -6,7 +6,9 @@ I refactored the code to include semantic HTML elements and make the site more a
 
 ## Visuals
 
-Included a screenshot of the website.
+Screenshot: 
+
 
 ## Link to Application
 
+https://cgconverse.github.io/Refactor-Horiseon/
